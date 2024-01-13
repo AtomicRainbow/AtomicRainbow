@@ -1,8 +1,8 @@
-## 💜 Olá, meu nome é Kauan!
+## 💜 Hello, my name is Kauan!
 
-Tenho 17 anos, sou do Brasil e atualmente estou focado em estudar conteúdos da programação visando futuramente ser um dev. Atualmente estudando lógica de programação via javascript para futuramente ir para java, anteriormente estava estudando html e css, pretendo retornar a estudá-los em um futuro próximo
+I'm 17 years old, I'm from Brazil and I'm currently focused on studying programming content with the aim of becoming a dev in the future. Currently studying programming logic via javascript to move to java in the future, previously I was studying html and css, I intend to return to studying them in the near future
 
-🔭 Atualmente já fiz uma calculadora de Imc , um conversor de temperaturas e um classificador de nível e ranking em js, além de já ter feito um site usando html puro
+🔭 I have currently created an BMI calculator, a temperature converter and a level and ranking classifier in JS, in addition to having already created a website using pure HTML
 
 💬 ...
 
