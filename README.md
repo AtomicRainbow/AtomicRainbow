@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Kauan!
 
-Tenho 17 anos e atualmente estou focado em estudar conteúdos da programação visando futuramente ser um dev. Atualmente estudando lógica de programação via javascript para futuramente ir para java, anteriormente estava estudando html e css, pretendo retornar a estudá-los em um futuro próximo
+Tenho 17 anos, sou do Brasil e atualmente estou focado em estudar conteúdos da programação visando futuramente ser um dev. Atualmente estudando lógica de programação via javascript para futuramente ir para java, anteriormente estava estudando html e css, pretendo retornar a estudá-los em um futuro próximo
 
 🔭 Atualmente já fiz uma calculadora de Imc , um conversor de temperaturas e um classificador de nível e ranking em js, além de já ter feito um site usando html puro
 
