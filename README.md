@@ -1,6 +1,6 @@
 ## 💜 Hello, my name is Kauan!
 
-I'm 17 years old, I'm from Brazil and I'm currently focused on studying programming content with the aim of becoming a dev in the future. Currently studying programming logic via javascript to move to java in the future, previously I was studying html and css, I intend to return to studying them in the near future
+I'm 17 years old, I'm from Brazil and I'm currently focused on studying programming content with the aim of becoming a dev in the future. Currently studying programming logic with javascript to move to java in the future, previously I was studying html and css, I intend to return to studying them in the near future
 
 🔭 I have currently created an BMI calculator, a temperature converter and a level and ranking classifier in JS, in addition to having already created a website using pure HTML
 
